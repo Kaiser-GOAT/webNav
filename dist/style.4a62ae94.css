@@ -88,7 +88,6 @@ body {
 .webList {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 @media (min-width: 800px) {
   .webList {
@@ -148,4 +147,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.288fceea.css.map */
+/*# sourceMappingURL=style.4a62ae94.css.map */
