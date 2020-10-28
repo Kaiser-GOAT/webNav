@@ -88,8 +88,10 @@ body {
 .webList {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px;
 }
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
   .webList {
     margin-right: -30px;
     margin-left: -30px;
@@ -101,7 +103,7 @@ body {
     margin-right: auto;
   }
 }
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
   .headWeb {
     margin: 60px;
   }
@@ -147,4 +149,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.4a62ae94.css.map */
+/*# sourceMappingURL=style.b2dafc74.css.map */
